@@ -125,11 +125,16 @@ Automated Maintenance Alerts
 
 Revenue Streams
 
-💧 Pay-Per-Use Model: ₹2-₹5 per liter
-💧 Subscription Model: Monthly affordable plans for households
-💧 Government & NGO Partnerships: Funding for underserved communities
-💧 CSR & Private Partnerships: Corporates funding dispensers under CSR programs
-💧 Franchise Model: Entrepreneurs can set up and operate dispensers
+💧 Pay-Per-Use Model: ₹2-₹5 per liter.
+
+💧 Subscription Model: Monthly affordable plans for households.
+
+💧 Government & NGO Partnerships: Funding for underserved communities.
+
+💧 CSR & Private Partnerships: Corporates funding dispensers under CSR programs.
+
+💧 Franchise Model: Entrepreneurs can set up and operate dispensers.
+
 
 
 ---
@@ -151,9 +156,11 @@ Government Smart City Initiatives: ₹2,05,018 crore allocated to urban infrastr
 Competitors
 
 Competitive Edge:
-✔️ IoT-driven efficiency
-✔️ Real-time monitoring
-✔️ Multi-payment support
+✔️ IoT-driven efficiency.
+
+✔️ Real-time monitoring.
+
+✔️ Multi-payment support.
 
 
 ---
